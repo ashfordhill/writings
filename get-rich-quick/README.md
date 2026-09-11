@@ -25,13 +25,15 @@ I've got a friend who has been using generated art and AI agents to automaticall
 
 ### Offline/Local AI
 
-For those with the right skillsets, in the midst of all this AI chaos there is opportunity. Some people have started ventures to [clean up AI slop](https://odra.dev/slopfix/) or to [offer AI productivity tools](https://www.bluehost.com/) but really, the sort of **unaddressed technology issues** we see in businesses today are not unique to the AI era:
+For those with the right skillsets, in the midst of all this AI chaos there is opportunity. Some people have started ventures to [clean up AI slop](https://odra.dev/slopfix/) or to [offer AI productivity tools](https://www.bluehost.com/). But really, the sort of **unaddressed technology issues** we see in businesses today are *not* unique to the AI era:
 
 - Poor quality software solutions (slop)
 - Businesses not knowing where their existing productivity bottlenecks are
   - Often times there aren't implemented metrics to even measure these types of things
 - General tech ignorance
-  - A growing gap; the same people who didn't become with computers maladapted to using the internet, then maladapted to using a smartphone, now maladapting to using AI, etc. I mean how many people *actually* know how to deal with their own WiFi and printers?
+  - A growing gap; the same people who didn't git gud with computers maladapted to using the internet, then maladapted to using a smartphone, now maladapting to using AI, etc. I mean how many people *actually* know how to deal with their own WiFi and printers?
+
+The bar is low! Like, underground. Waaay underground.
 
 <p align="center"><img src="xkcd.png" alt="xkcd" width="240"/></p>
 
@@ -59,7 +61,7 @@ I was at the 30th & Downing station bus stop, waiting for the light rail to take
 
 An old lady walks up to me and tells me to get on a housing voucher waitlist (I guess I looked broke?) because that's how her son made money. 
 
-She told me when he got his housing voucher, he fixed up the house, lived with relatives elsewhere and rented it out. From what I understand, housing vouchers can be used towards the purchase of a home and help subsidize the payments. In the right scenario, someone could probably exploit this system a bit to profit. 
+She told me when he got his housing voucher, he fixed up the house, lived with relatives elsewhere and rented it out. From what I understand, housing vouchers can be used towards the purchase of a home and help subsidize payments. In the right scenario, someone could probably exploit this system a bit to profit. 
 
 This is not a strategy I would endorse, nonetheless it's always interesting to hear about how a hustle played out.
 
