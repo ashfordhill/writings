@@ -4,6 +4,7 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
+- **[Get Rich Quick!](get-rich-quick/README.md)**
 - **[Choosing Books Wisely](choosing-books-wisely/README.md)**
 - **[Goodbye Open Tab Season](goodbye-open-tab-season/README.md)**
 - **[Automation vs AI](automation-vs-ai/README.md)**
