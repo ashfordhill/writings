@@ -9,7 +9,7 @@ Collection of videos & commentary.
 ## The Paradox at the Heart of AI and Science
 
 <p>
-  <a href="https://www.youtube.com/watch?v=svl_1upFpQo"><img src="video-playing-icon.svg" alt="Watch Video" width="200" valign="bottom"> <img src="duration-badge.svg" alt="30:11" height="32" valign="bottom"></a>
+  <a href="https://www.youtube.com/watch?v=svl_1upFpQo"><img src="video-playing-icon.svg" alt="Watch Video" width="200" valign="bottom"><img src="duration-badge.svg" alt="30:11" height="32" valign="bottom"></a>
 </p>
 
 ### Comments
