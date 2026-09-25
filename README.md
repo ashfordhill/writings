@@ -4,6 +4,7 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
+= **[Roadmap to Vienna](roadmap-to-vienna/README.md)**
 - **[Video Vault](video-vault/README.md)**
 - **[Get Rich Quick!](get-rich-quick/README.md)**
 - **[Choosing Books Wisely](choosing-books-wisely/README.md)**
