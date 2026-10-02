@@ -2,8 +2,23 @@
 
 Collection of videos & commentary.
 
-- [The Paradox at the Heart of AI and Science](#the-paradox-at-the-heart-of-ai-and-science)
+- [Music and Life - Alan Watts](#music-and-life---alan-watts)
   - [Comments](#comments)
+- [The Paradox at the Heart of AI and Science](#the-paradox-at-the-heart-of-ai-and-science)
+  - [Comments](#comments-1)
+
+
+## Music and Life - Alan Watts
+
+<p>
+  <a href="https://www.youtube.com/watch?v=ERbvKrH-GC4"><img src="video-playing-icon.svg" alt="Watch Video" width="200" valign="bottom"><img src="duration-badge-2-23.svg" alt="2:23" height="32" valign="bottom"></a>
+</p>
+
+### Comments
+
+I watched this video a long time ago and it really stuck with me. I don't always agree with Alan Watt's philosophies but I like this one because it reminds me of my favorite parable, [the old man who lost his horse](https://en.wikipedia.org/wiki/The_old_man_lost_his_horse). On a less serious note, bottom of the linked article has a fun quote from comedian Andrew Hamilton:
+
+>"Sometimes in life we can be too philosophical, when instead we just need to acknowledge that life is a scorching hot dumpster fire and we will probably never recover."
 
 
 ## The Paradox at the Heart of AI and Science
