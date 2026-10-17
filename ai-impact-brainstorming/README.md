@@ -44,13 +44,13 @@ A randomized experiment across 66 firms and 7,137 workers offers another example
 >>
 >> [..] when earnings and recorded hours remain stable, workers and workplaces absorb technological change through task reallocation and other unrecorded adjustments, reducing pressure on pay or hours. If so, the absence of measurable labor market effects is not evidence that nothing is happening — but rather that transformation is occurring on margins that conventional economic statistics do not capture.
 
-If you have 100 people doing their work and give them a tool that allows them to do their work 50% faster, then why not only employ 50 people instead? How else is a company realistically going to reduce costs?
+Imagine you have 100 people doing their work and give them a tool that allows them to do their work 2x faster. Why not only employ 50 people instead? That could have a drastic costing savings.
 
 On the other hand, if it's a sort of scalable business with a certain bottleneck, maybe this means they hire 100 more people and ramp up operations. 
 
 Though, if the options for a company are either decreased needed personnel or expansion, that seems like it would lead to stronger and more monopolies.
 
-Regardless, handing people AI doesn’t decide how the gains get used. Incentives, demand, coordination, and the next bottleneck still matters. 
+Regardless, handing people AI doesn’t decide how the gains get used. Incentives, coordination, and addressing next-line bottlenecks can help direct the time-savings gains.
 
 ## Digital Low-Hanging Fruit
 
@@ -60,7 +60,7 @@ Amazon is a useful example. In September 2026, *The Bookseller* reported that KD
 
 AI-assisted recreation of existing software adds another pressure. Projects such as [Photocraft](https://github.com/storytold/photocraft) are interesting examples where the (expensive!) Adobe product suite is attempted to be recreated, pretty much. Even if something like this got shut down, in the long run I think AI will have an immense negative impact on companies like Adobe unless they could somehow legally protect themselves.
 
-Since the robotics field is still in its infancy, AI is not going to have as great of an impact in hardware advancements and manufacturing compared to its impact in the digital world. Hardware could be an interesting area to follow, with all the noise and focus in the digital space going on right now.
+Since the robotics field is still in its infancy, AI is (currently) not going to have as great of an impact in hardware advancements and manufacturing compared to its impact in the digital world. Hardware could be an interesting area to follow, with all the noise and focus in the digital space going on right now.
 
 ## Workflows and Work Tiers
 
