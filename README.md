@@ -4,6 +4,7 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
+- **[Business Post-Mortem](business-post-mortem/README.md)** (new!)
 - **[AI Impact Brainstorming](ai-impact-brainstorming/README.md)** (new!)
 - **[Biohacking](biohacking/README.md)** (new!)
 - **[Roadmap to Vienna](roadmap-to-vienna/README.md)**
