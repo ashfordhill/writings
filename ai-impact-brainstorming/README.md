@@ -11,7 +11,7 @@ Mini-dive into multiple AI topics.
   - [Humlum and Vestergaard](#humlum-and-vestergaard)
 - [Digital Low-Hanging Fruit](#digital-low-hanging-fruit)
 - [Workflows and Work Tiers](#workflows-and-work-tiers)
-- [Parting Thoughts](#parting-thoughts)
+- [I Love Me Some Diagrams Still](#i-love-me-some-diagrams-still)
 
 
 ## What Happens When Open Source LLMs Advance?
@@ -68,8 +68,10 @@ Organizational economics studies how routine problems can be handled at lower le
 
 It's possible companies could want a framework for certain workflows where as much work is scripted as possible and models are only used in areas absolutely necessary. Even if a model is really cheap to run, reproducability and future model swapping would encourage one to not use AI unnecessary when designing automation. Why have AI rediscover a process that could become a reliable script?
 
-## Parting Thoughts
+## I Love Me Some Diagrams Still
 
 As implementation gets automated, more of the remaining human work moves toward understanding the whole system, connecting back to a previous writeup, [*Why Diagrams Are Important*](https://github.com/ashfordhill/writings/tree/main/why-diagrams-are-important). 
 
-Maybe that's not realistic, though. The human tendency is to avoid pain and be reactive. At my company, we've been failing spectacularly at AI adoption, as I'm sure many corporations are. Dumping AI on the public and enterprises while everyone figures out the costs, expectations, and workflows has been a bit of a shitshow.
+Though there is use of AI-generated diagrams via something like Mermaid, I think it's valuable for an overseeing engineer to trace and modify these diagrams as necessary. The brain gets lazy and I don't think there will be an incentive for getting complacent engineers to de-rustify themselves in the near-future. Working through problems that require high levels of mental energy is good for staying sharp, whether you manually code or not. 
+
+In my current team we've used a lot of visually appealing diagramming to communicate. When a diagram isn't detailed enough or is even missing, it's definitely felt in communication with other people. 
