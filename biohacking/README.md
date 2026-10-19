@@ -2,11 +2,30 @@
 
 "Biohacking" sounds like a really cool, futuristic concept. However the year is 2026 so instead of interesting CRISPR @ home modifications, neural interfaces for brain <-> machine connections (full-dive VR when?) and really freakin' cool body modifications we have pills, cold showers and practicing mindfulness. Yah, I'm disappointed too. We live in the dark ages.
 
-# Pills
+## Sermorelin
 
-## General Energy
+>> Injectible peptide commonly available via telehealth Rx services. Raises levels of growth hormone via stimulating the pituitary gland with a precursor. Popular more recently as a commercial prescription but has been around medically since the 90's.
 
-### NAD+/Niagen (nicotinamide riboside)
+- **Source**: [Good Life, $130/month](https://www.goodlifemeds.com/products/sermorelin)
+  - I don't really recommend this place - they had a weird charging schedule (28 days instead of monthly) and some other organization/software issues. On the plus side I accidentally got an extra vial from them and $75 back after complaining about the disorganization. I'm set for the rest of the year but will explore a different source going forward.
+  - They provide the needles and alcohol swabs, which is convenient.
+
+**Personal Experience**
+  - Helps with sleep quality 
+  - Helps with workout recovery & workout gains
+    - Fat loss is slightly easier, muscle gain is slightly quicker
+    - Sort of like being in your 20's instead of 30's, workout-wise
+  - Can help indirectly with other things like mood and energy levels
+  - Stinging or itching sometimes occurs at injection site - not sure why only sometimes
+  - 1000% worth the money
+
+**Additional Comments**
+  - Natural growth hormone levels in adulthood tend to decline with age
+  - HGH injections are extremely expensive and more disruptive to the body's natural feedback loops for GH production; sermorelin is much less intense and well-tolerated in comparison
+  - Needs to be refridgerated
+  - Needs to be injected 5x/week at night before bed, ideally 2-3 hrs after last meal. Eating close to bedtime is bad anyway
+
+## NAD+/Niagen (nicotinamide riboside)
 
 >> Form of Vitamin B3 that converts into NAD+ which fuels celluar energy production and repair. Natural levels of NAD+ decline with age. Niagen/NR can be taken orally to raise NAD+ levels. NAD+ can also be injected subcutaneously.
 
@@ -23,9 +42,9 @@
 
 - NAD+ has been trending as an 'anti-aging' injectable from several telehealth wellness companies like [AgeRX](https://get.agelessrx.com/energy/nad-injection). I've have tried the injectable form of NAD+. NR supplementation is just as effective.
 
-### CoQ10 Enzyme
+## CoQ10 Enzyme
 
->> Like NAD+, CoQ10 is another general cellular producer. Behaves as an antioxident and supports . Also like NAD+, natural levels decline with age beginning in ~ late 20's.
+>> Like NAD+, CoQ10 is another general wellness supplement. Behaves as an antioxident and supports e. Also like NAD+, natural levels decline with age beginning in ~ late 20's.
 
 - **Source**: [Nutricost Coenzyme Q10, Amazon](https://www.amazon.com/Nutricost-CoQ10-Veggie-Capsules-Servings)
 
@@ -36,14 +55,14 @@
 <p align="center"><img src="coq10.png" width="600"/></p>
 <p align="center"><em>https://www.researchgate.net/publication/352360505_Coenzyme_Q10_supplementation_-_In_ageing_and_disease</em></p>
 
-### L-Theanine (with Inositol)
+## L-Theanine (with Inositol)
 
 >> Amino acid found naturally in tea leaves. This is commonly combined with caffeine to reduce jitter/anxiety effects of caffeine while keeping mental clarity. It has calming effects overall. Inositol is found in some blends due to its ability to aid in the 'good mood' effects.
 
 - **Source**: [L-Theanine 200mg w/ Inositol, Amazon](https://www.amazon.com/NOW-L-Theanine-200-120-Capsules/dp/B00GQV9YX6)
 
 
-### Ashwagandha
+## Ashwagandha
 
 >> A popular organic supplement, Ashwaganda is one of those all-in-one boosters; memory, sleep quality, anxiety & stress reduction, list goes on. It does take a while (several weeks to a few months) to feel the full effects which can be subtle especially if not in-tune with day-to-day or week-to-week bodily changes.
 
@@ -53,19 +72,20 @@
 
 I take the KSM-66 type but don't have a go-to brand.
 
-### Nicotine
+## Nicotine
 
 >> Nicotine is a powerful nootropic when taken as a non-regular user. Nicotine patches cut down into smaller doses acan be a good way to boost a crunch session that will take a lot of mental energy. I don't recommend using it often due to tendency for addiction, especially if you have a history of smoking.
 
 - **Source**: [CVS Nicotime Patches 21mg, CVS](https://www.cvs.com/shop/cvs-nicotine-transdermal-system-21mg-patch-step-1-7-ct-prodid-1280179)
   - It's most economical to get the largest dose and cut the patches down. Patches come in 14mg and 7mg doses as well.
 
-### Caffeine
+## Caffeine
 
 >> Caffeine is well-known and widely accepted - however there's some limitations and cautionary usage around it.
 
 <p align="center"><img src="caffeine.svg" width="600"/></p>
 <p align="center"><em>Caffeine can also boost mood since it is sitting in receptors that would normally reuptake (clear/recycle out) mood-boosting neurotransmitters like dopamine and seratonin. Awareness of its mechanism can help decide when and how often to ingest.</em></p>
+
 
 # Notes
 
