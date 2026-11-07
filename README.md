@@ -4,9 +4,10 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
-- **[Business Post-Mortem](business-post-mortem/README.md)** (new!)
-- **[AI Impact Brainstorming](ai-impact-brainstorming/README.md)** (new!)
-- **[Biohacking](biohacking/README.md)** (new!)
+- **[Coral Bells and Other Tales](coral-bells-and-other-tales/README.md)**
+- **[Business Post-Mortem](business-post-mortem/README.md)**
+- **[AI Impact Brainstorming](ai-impact-brainstorming/README.md)**
+- **[Biohacking](biohacking/README.md)**
 - **[Roadmap to Vienna](roadmap-to-vienna/README.md)**
 - **[Video Vault](video-vault/README.md)**
 - **[Get Rich Quick!](get-rich-quick/README.md)**
