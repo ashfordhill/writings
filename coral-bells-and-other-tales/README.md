@@ -71,15 +71,11 @@ The stereotype of Chicago being overly cold has yet to manifest since I've moved
 
 Everyone who has visited us out here has found it surprisingly lovely and flirted with the idea of moving here. The suburbs are particularly enticing with a high inventory of charming older homes, areas with solid school systems, community care focus and a wide demographic of people and cultures. I prefer quiet, green suburbs while my husband prefers the bustle and shopping options of larger areas (plus a Chinatown). This area offers the perfect blend of both plus numerous diversity benefits:
 
-- As a biracial person of white and black ethnicity, who is often mistake for Hispanic ethnicity, it's been refreshing to see wider diversity among social classes than I did back in Colorado where I grew up. 
+- As a biracial person of white and black races, who is often mistaken for Hispanic ethnicity, it's been refreshing to see wider diversity among social classes than I did back in Colorado where I grew up. 
 
 - As a man married to another man, I feel less on edge, less worried about how I'm perceived. 
 
 - As a person married to an immigrant, I feel right at home. There are tons of immigrants here - and not just from Mexico. I've encountered people from all over the world. No one bats an eye at anyone based on appearance, which is nice. 
-
-I joked with an old Denver-based friend - who often gets unsolicited ethnicity-related comments on her appearance - that white people here don't give that wide-eyed "what ARE you?" look, insensitive questions or asking to touch your hair. I don't mind curiosity but it can get lonely when you're reminded about how you're an 'other' and how you don't really blend within the group. When people live in a melting pot, it becomes their baseline of normal - it's not like people are consciously *trying* to be rude or accepting. It's just a result of their environment and experiences.
-
-There's a sort of culture here I find easy to understand. There's politeness reminiscient of the midwest, with the realness and no-nonsense of the east coast. There's also a strong Chicagoan pride; this level of pride and culture was something I never experienced growing up in Denver.
 
 The higher population overall affords me access to a diverse range of services and doctors - which is necessary for me:
 
