@@ -5,7 +5,7 @@
 - [Weather, Seasons, Chicago: A Personal Note](#weather-seasons-chicago-a-personal-note)
   - [Winter Moods](#winter-moods)
   - [Where's the snow?!](#wheres-the-snow)
-  - [I like it here](#i-like-it-here)
+  - [My ancestor's sexual history](#my-ancestors-sexual-history)
 
 ## Coral Bells
 
@@ -67,22 +67,8 @@ The average date for first frost in Chicago is October 19th, with the latest eve
 
 The stereotype of Chicago being overly cold has yet to manifest since I've moved here, which I suspect might be due to climate change trends. Decades ago, the climate probably felt a lot more harsh in winter time.
 
-### I like it here
+### My ancestor's sexual history
 
-Everyone who has visited us out here has found it surprisingly lovely and flirted with the idea of moving here. The suburbs are particularly enticing with a high inventory of charming older homes, areas with solid school systems, community care focus and a wide demographic of people and cultures. I prefer quiet, green suburbs while my husband prefers the bustle and shopping options of larger areas (plus a Chinatown). This area offers the perfect blend of both plus numerous diversity benefits:
-
-- As a biracial person of white and black races, who is often mistaken for Hispanic ethnicity, it's been refreshing to see wider diversity among social classes than I did back in Colorado where I grew up. 
-
-- As a man married to another man, I feel less on edge, less worried about how I'm perceived. 
-
-- As a person married to an immigrant, I feel right at home. There are tons of immigrants here - and not just from Mexico. I've encountered people from all over the world. No one bats an eye at anyone based on appearance, which is nice. 
-
-The higher population overall affords me access to a diverse range of services and doctors - which is necessary for me:
-
-- I saw an endocrinologist 5 minutes away who was very rude - no problem. I found an amazing one 20 minutes away. 
-- Music lessons? 3 blocks away. 
-- Food? Endless options. 
-- Need a handyman on Thumbtack? Loads to pick from, with (imo) fair pricing. 
-
-And don't get me started on the karaoke options! There's just more of **everything**. It's not NYC, the ultimate queer folk haven, but it's a hell of a lot cheaper and greener.
+![](23andme-1.png)
+![](23andme-2.png)
 
