@@ -5,7 +5,7 @@
 - [Weather, Seasons, Chicago: A Personal Note](#weather-seasons-chicago-a-personal-note)
   - [Winter Moods](#winter-moods)
   - [Where's the snow?!](#wheres-the-snow)
-  - [My ancestor's sexual history](#my-ancestors-sexual-history)
+  - [My ancestors' sexual history](#my-ancestors-sexual-history)
 
 ## Coral Bells
 
@@ -67,7 +67,7 @@ The average date for first frost in Chicago is October 19th, with the latest eve
 
 The stereotype of Chicago being overly cold has yet to manifest since I've moved here, which I suspect might be due to climate change trends. Decades ago, the climate probably felt a lot more harsh in winter time.
 
-### My ancestor's sexual history
+### My ancestors' sexual history
 
 ![](23andme-1.png)
 ![](23andme-2.png)
