@@ -4,6 +4,7 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
+- **[GitHub For Noobs](github-for-noobs/README.md)**
 - **[Skipper](skipper/README.md)**
 - **[Coral Bells and Other Tales](coral-bells-and-other-tales/README.md)**
 - **[Business Post-Mortem](business-post-mortem/README.md)**
