@@ -1,8 +1,6 @@
 # GitHub For Noobs
 
-GitHub is such a great tool that I've been using for non-coding projects as well. 
-
-So why not utilize it for non-software engineering business processes as well?
+GitHub is such a great tool, even for codeless projects.
 
 ## Scenario
 
@@ -31,7 +29,7 @@ Also *~imagine~* a conversation between the inventory owner (`INV_OWNER`)  and t
 >
 > etc.
 
-Looks like it's time for a software solution!
+Looks like it's time for a solution!
 
 ## Solving the Problem
 
