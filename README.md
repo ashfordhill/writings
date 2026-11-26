@@ -4,6 +4,7 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
+- **[The Landlord Spa](the-landlord-spa/README.md)**
 - **[GitHub For Noobs](github-for-noobs/README.md)**
 - **[Skipper](skipper/README.md)**
 - **[Coral Bells and Other Tales](coral-bells-and-other-tales/README.md)**
