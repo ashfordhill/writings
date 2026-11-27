@@ -4,6 +4,8 @@ Sort of non-technical guides. Rants?
 
 ## Pages
 
+
+- **[AI Metrics and Productivity](ai-metrics-and-productivity/README.md)**
 - **[The Landlord Spa](the-landlord-spa/README.md)**
 - **[GitHub For Noobs](github-for-noobs/README.md)**
 - **[Skipper](skipper/README.md)**
